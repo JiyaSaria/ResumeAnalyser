@@ -52,7 +52,7 @@ This project integrates **Google Gemini AI** for resume analysis and includes se
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohamed-Imran-12/Resume-Analyser.git
+git clone (https://github.com/JiyaSaria/ResumeAnalyser.git)
 ```
 
 #### 2. Open Project in IDE
